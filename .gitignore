@@ -3,6 +3,5 @@ Constructor/Constructor/wsgi.py
 static
 .htaccess
 .htaccess.save
-
-
-
+.idea/
+Constructor/db.sqlite3
